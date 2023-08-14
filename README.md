@@ -47,16 +47,16 @@
       <br/>
       <a href="https://www.linkedin.com/in/gabrielsprata/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="azzar" height="30" target="_blank"/></a>
       <a href="mailto:gabrielsprata01@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="azzar" height="30" target="_blank"/></a>
       <a href="https://www.instagram.com/prata019/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="azzar" height="30" target="_blank"/></a>
       <a href="https://wa.me/+5519997116055" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="azzar" height="30" target="_blank"/></a>
       
 <!--       <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
