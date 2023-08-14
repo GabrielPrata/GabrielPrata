@@ -303,7 +303,7 @@
 </details>
 
 <details>
-  <summary><h3>🤓 Algumas tecnologias que já estudo/já estudei porém não as domino:</h3></summary>
+  <summary><h3>🤓 Algumas tecnologias que estudo/já estudei porém não as domino:</h3></summary>
 <div>
   <samp>
     <table>
