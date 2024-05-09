@@ -14,9 +14,11 @@
    
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </div>
 
 <p  align="center">
@@ -25,7 +27,7 @@
 
 ### 💻 &nbsp;Sobre mim:
 
-- 💼 &nbsp; Trabalho como desenvolvedor Full Stack na RC Soluções;
+- 💼 &nbsp; Trabalho como desenvolvedor Full Stack na <a target="_blank" href="https://semeq.com/en/home-en/">Semeq</a>;
 - 🎓 &nbsp; Estudo Sistemas da informação na Fundação Hermínio Ometto (FHO), localizada na cidade de Araras - SP;
 - 🔒 &nbsp; Pretendo me especializar na área de segurança de dados, atuando como pentester.
 
