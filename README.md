@@ -2,7 +2,6 @@
 
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Bem vindo ao meu perfil!
-<! --
 <div align=center>
   <h3><b>Quantas pessoas já passaram por aqui 👀</b></h3>
 </div>
@@ -18,8 +17,6 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
--->
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
